@@ -1,6 +1,6 @@
 body {
      background-color: #cc0000;
-     font-family: 'Black And White Picture', sans-serif;
+     font-family:sans-serif;
      font-size: 18px;
      
  }
@@ -9,19 +9,18 @@ body {
      width: 1000px;
      margin: 20px auto;
      box-sizing: border-box;
-     background-color: white;
+     background-color: #cc0000;
      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
  }
 
  .header {
-     border-bottom: 1px solid gray;
      display: flex;
      align-items: center;
      flex-direction: row;
      justify-content: space-between;
      flex-wrap: wrap;
      padding: 15px;
-     background-color: #e0e0e8;
+     background-color: #cc0000;
  }
 
  .header h1 {
