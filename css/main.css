@@ -1,7 +1,8 @@
 body {
-     background-color: #5d6577;
+     background-color: #cc0000;
      font-family: 'Black And White Picture', sans-serif;
      font-size: 18px;
+     
  }
 
  .body {
@@ -26,7 +27,7 @@ body {
  .header h1 {
      font-size: 50px;
      line-height: 10px;
-     color:#00205b;
+     color:#000000;
  }
 
  .container {
